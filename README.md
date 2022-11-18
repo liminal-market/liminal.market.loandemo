@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Loan Protocol - Demo
+This is a demonstration on how to use the Liminal.market staking function.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Early development
+This is very early development, there are error in the smart contracts
+and they are not fully implemented. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+# Other projects
+- You can find the code [for the website](https://github.com/liminal-market/liminal.market.loandemo.web)
+- You can find the Liminal.market [smart contracts in the staking branch](https://github.com/liminal-market/liminal.market.contracts/tree/staking)
